@@ -1,0 +1,481 @@
+element.style {
+  animation-fill-mode: both;
+  animation-duration: 1000ms;
+  animation-delay: 0ms;
+  animation-iteration-count: 1;
+  opacity: 1;
+  animation-name: react-reveal-498241057349041-1;
+}
+
+.row {
+  display: flex;
+  flex-wrap: wrap;
+  margin-right: -15px;
+  margin-left: -15px;
+}
+
+.col,
+.col-1,
+.col-2,
+.col-3,
+.col-4,
+.col-5,
+.col-6,
+.col-7,
+.col-8,
+.col-9,
+.col-10,
+.col-11,
+.col-12,
+.col-auto,
+.col-lg,
+.col-lg-1,
+.col-lg-2,
+.col-lg-3,
+.col-lg-4,
+.col-lg-5,
+.col-lg-6,
+.col-lg-7,
+.col-lg-8,
+.col-lg-9,
+.col-lg-10,
+.col-lg-11,
+.col-lg-12,
+.col-lg-auto,
+.col-md,
+.col-md-1,
+.col-md-2,
+.col-md-3,
+.col-md-4,
+.col-md-5,
+.col-md-6,
+.col-md-7,
+.col-md-8,
+.col-md-9,
+.col-md-10,
+.col-md-11,
+.col-md-12,
+.col-md-auto,
+.col-sm,
+.col-sm-1,
+.col-sm-2,
+.col-sm-3,
+.col-sm-4,
+.col-sm-5,
+.col-sm-6,
+.col-sm-7,
+.col-sm-8,
+.col-sm-9,
+.col-sm-10,
+.col-sm-11,
+.col-sm-12,
+.col-sm-auto,
+.col-xl,
+.col-xl-1,
+.col-xl-2,
+.col-xl-3,
+.col-xl-4,
+.col-xl-5,
+.col-xl-6,
+.col-xl-7,
+.col-xl-8,
+.col-xl-9,
+.col-xl-10,
+.col-xl-11,
+.col-xl-12,
+.col-xl-auto {
+  position: relative;
+  width: 100%;
+  padding-right: 15px;
+  padding-left: 15px;
+}
+
+@media (min-width: 768px) {
+  .col-md-6 {
+    flex: 0 0 50%;
+    max-width: 50%;
+  }
+}
+
+@media screen and (max-width: 1500px) {
+  .servicesDescription {
+    padding-right: 20%;
+  }
+}
+
+@media screen and (max-width: 1500px) {
+  .servicesH2 h2 {
+    font-size: 300%;
+    transform: scaleY(1.05);
+  }
+}
+
+.servicesH2 h2 {
+  font-style: normal;
+  font-weight: lighter;
+  /* font-size: 400%; */
+  -webkit-font-feature-settings: "pnum" on, "lnum" on;
+  font-feature-settings: "pnum" on, "lnum" on;
+}
+
+h2 {
+  font-weight: 600;
+  font-size: 240%;
+  margin-bottom: 0;
+}
+
+.h2,
+h2 {
+  font-size: 2rem;
+}
+
+.h1,
+.h2,
+.h3,
+.h4,
+.h5,
+.h6,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  margin-bottom: 0.5rem;
+  font-weight: 500;
+  line-height: 1.2;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  margin-top: 0;
+  margin-bottom: 0.5rem;
+}
+
+h2 {
+  display: block;
+  font-size: 1.5em;
+  margin-block-start: 0.83em;
+  margin-block-end: 0.83em;
+  margin-inline-start: 0px;
+  margin-inline-end: 0px;
+  font-weight: bold;
+}
+
+@media screen and (max-width: 1500px) {
+  .servicesH3 {
+    padding-bottom: 20%;
+  }
+}
+
+.servicesH3 {
+  margin-bottom: 3%;
+  padding: 9% 0 20%;
+}
+
+@media screen and (max-width: 1500px) {
+  .servicesH3 h3,
+  .servicesP p {
+    font-size: 1.3rem;
+  }
+}
+
+@media screen and (max-width: 1500px) {
+  .servicesH3 h3 {
+    font-weight: 500;
+    font-style: normal;
+  }
+}
+
+.servicesH3 h3 {
+  font-weight: lighter;
+}
+
+.h3,
+h3 {
+  font-size: 1.75rem;
+}
+
+.h1,
+.h2,
+.h3,
+.h4,
+.h5,
+.h6,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  margin-bottom: 0.5rem;
+  font-weight: 500;
+  line-height: 1.2;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  margin-top: 0;
+  margin-bottom: 0.5rem;
+}
+
+h3 {
+  display: block;
+  font-size: 1.17em;
+  margin-block-start: 1em;
+  margin-block-end: 1em;
+  margin-inline-start: 0px;
+  margin-inline-end: 0px;
+  font-weight: bold;
+}
+
+a:any-link {
+  text-decoration: none;
+}
+
+a:-webkit-any-link {
+  text-decoration: none;
+}
+
+.servicesP a {
+  color: #000;
+}
+
+.servicesP p {
+  color: #000;
+}
+
+a {
+  color: #007bff;
+  text-decoration: none;
+  background-color: transparent;
+}
+
+a:-webkit-any-link {
+  color: -webkit-link;
+  cursor: pointer;
+  text-decoration: underline;
+}
+
+@media screen and (max-width: 1500px) {
+  .servicesH3 h3,
+  .servicesP p {
+    font-size: 1.3rem;
+  }
+}
+.servicesP p {
+  display: inline-block;
+  font-weight: bolder;
+  font-size: 1.2rem;
+}
+
+p {
+  font-size: 110%;
+}
+p {
+  margin-top: 0;
+  margin-bottom: 1rem;
+}
+
+p {
+  display: block;
+  margin-block-start: 1em;
+  margin-block-end: 1em;
+  margin-inline-start: 0px;
+  margin-inline-end: 0px;
+}
+
+a:any-link {
+  text-decoration: none;
+}
+
+a:-webkit-any-link {
+  text-decoration: none;
+}
+.servicesP a {
+  color: #000;
+}
+a {
+  color: #007bff;
+  text-decoration: none;
+  background-color: transparent;
+}
+a:-webkit-any-link {
+  color: -webkit-link;
+  cursor: pointer;
+}
+
+.servicesP img {
+  width: 25px;
+  margin-left: 20px;
+}
+img {
+  width: 100%;
+  height: 100%;
+}
+img,
+svg {
+  vertical-align: middle;
+}
+img {
+  border-style: none;
+}
+
+img {
+  overflow-clip-margin: content-box;
+  overflow: clip;
+}
+
+@media (min-width: 768px) {
+  .col-md-6 {
+    flex: 0 0 50%;
+    max-width: 50%;
+  }
+}
+.col,
+.col-1,
+.col-2,
+.col-3,
+.col-4,
+.col-5,
+.col-6,
+.col-7,
+.col-8,
+.col-9,
+.col-10,
+.col-11,
+.col-12,
+.col-auto,
+.col-lg,
+.col-lg-1,
+.col-lg-2,
+.col-lg-3,
+.col-lg-4,
+.col-lg-5,
+.col-lg-6,
+.col-lg-7,
+.col-lg-8,
+.col-lg-9,
+.col-lg-10,
+.col-lg-11,
+.col-lg-12,
+.col-lg-auto,
+.col-md,
+.col-md-1,
+.col-md-2,
+.col-md-3,
+.col-md-4,
+.col-md-5,
+.col-md-6,
+.col-md-7,
+.col-md-8,
+.col-md-9,
+.col-md-10,
+.col-md-11,
+.col-md-12,
+.col-md-auto,
+.col-sm,
+.col-sm-1,
+.col-sm-2,
+.col-sm-3,
+.col-sm-4,
+.col-sm-5,
+.col-sm-6,
+.col-sm-7,
+.col-sm-8,
+.col-sm-9,
+.col-sm-10,
+.col-sm-11,
+.col-sm-12,
+.col-sm-auto,
+.col-xl,
+.col-xl-1,
+.col-xl-2,
+.col-xl-3,
+.col-xl-4,
+.col-xl-5,
+.col-xl-6,
+.col-xl-7,
+.col-xl-8,
+.col-xl-9,
+.col-xl-10,
+.col-xl-11,
+.col-xl-12,
+.col-xl-auto {
+  position: relative;
+  width: 100%;
+  padding-right: 15px;
+  padding-left: 15px;
+}
+
+@media screen and (max-width: 1500px) {
+  .serviceImage {
+    height: 100%;
+    width: 88%;
+  }
+}
+
+.serviceImage {
+  width: 95%;
+  height: 90%;
+  object-fit: cover;
+}
+img {
+  width: 100%;
+  height: 100%;
+}
+img,
+svg {
+  vertical-align: middle;
+}
+img {
+  border-style: none;
+}
+*,
+:after,
+:before {
+  box-sizing: border-box;
+}
+img {
+  overflow-clip-margin: content-box;
+  overflow: clip;
+}
+
+@media only screen and (min-width: 1024px) {
+  .servicesMainDiv {
+    padding: 3% 18%;
+  }
+  .servicesDescription {
+    padding-right: 30%;
+  }
+  .servicesH3 h3 {
+    font-weight: lighter;
+  }
+  .h3,
+  h3 {
+    font-size: 1.75rem;
+  }
+
+  .collaborate {
+    text-align: left;
+    padding: 3% 18%;
+  }
+
+  .servicesH2 h2 {
+    font-size: 400%;
+  }
+}
+
+@media screen and (max-width: 1500px) {
+  .servicesMainDiv {
+    padding: 5% 3%;
+  }
+}
